@@ -1,6 +1,6 @@
 # Agent Patterns — TypeScript × Anthropic SDK
 
-> Every pattern from Anthropic's ["Building Effective Agents"](https://www.anthropic.com/research/building-effective-agents) — implemented from scratch.
+> Every pattern from Anthropic's ["Building Effective Agents"](https://www.anthropic.com/engineering/building-effective-agents) — implemented from scratch.
 
 No frameworks. No abstractions. Just the raw Anthropic SDK and clear, readable TypeScript showing exactly how each pattern works.
 
@@ -47,4 +47,4 @@ src/
 
 ## Credits
 
-Based on Anthropic's [Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) research post. All implementations use the [Anthropic TypeScript SDK](https://github.com/anthropics/anthropic-sdk-typescript).
+Based on Anthropic's [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) research post. All implementations use the [Anthropic TypeScript SDK](https://github.com/anthropics/anthropic-sdk-typescript).
